@@ -1,2 +1,1 @@
-#test text
-#new
+#Iclone the repo into local folder
